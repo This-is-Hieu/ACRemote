@@ -1,0 +1,23 @@
+# Build output
+build/
+
+# Component manager cache
+managed_components/
+
+# Backup config
+sdkconfig.old
+
+# CMake cache
+CMakeFiles/
+CMakeCache.txt
+
+# IDE
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+*.log

@@ -1,0 +1,10 @@
+{
+  "brand": "Panasonic_AC",
+  "model": 4,
+  "temp": 26,
+  "power": 1,
+  "mode": 3,
+  "fan": 7,
+  "swingV": 15,
+  "swingH": 13
+}
